@@ -1,0 +1,5 @@
+Zoomvliet College, part of ROC West-Brabant
+Uses the @edu.rocwb.nl mail adresses.
+
+Page with the education programs for IT: http://www.zoomvliet.nl/afdelingen/44
+When clicking on a specific program you'll see durations from 3 though 4 years.
