@@ -15,6 +15,7 @@
         [-] edu
             [+] harvard
             [+] stanford
+            [+] californiacolleges
         [-] uk
             [-] ac
                 [+] strath
