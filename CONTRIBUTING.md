@@ -1,4 +1,4 @@
-# Contributing to Swot
+# Contributing to Swot.
 
 #### Data Contributions
 
