@@ -1,0 +1,1 @@
+givatayim.ort.org.il
