@@ -43,7 +43,7 @@ Please do not suggest to add domains from the blacklist. They're banned for the 
 * cet.edu - this one's best. It could forward e-mails to your gmail.com even without registration. Cool.
 * australia.edu - anyone could register e-mail account there
 
-We intentionally exclude alumni domains (like john.smith@alumni.stanford.edu) as well.
+We intentionally exclude alumni domains (like akhtaruzzaman05@gmail.com) as well.
 
 ```
      ____________________________________________________
