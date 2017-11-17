@@ -20,6 +20,9 @@ If you did not contribute to this repository before, please read the repository 
         [-] uk
             [-] ac
                 [+] strath
+        [-] India   
+            [-] Andhra University
+                
 ```
 
 ##### Adding a School
