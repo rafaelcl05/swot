@@ -1,0 +1,19 @@
+Universidad de las Ciencias Informáticas
+
+# Official name in English
+
+University of Informatics Sciences
+
+# Official website
+
+https://www.uci.cu
+
+# Long-term courses website page
+
+https://www.uci.cu/estudios/pregrado
+
+# University contact
+https://www.uci.cu/contactenos
+
+# Note
+Professors email domain is **uci.cu** and student's is **estudiantes.uci.cu**
