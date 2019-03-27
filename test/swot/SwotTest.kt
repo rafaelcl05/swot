@@ -47,6 +47,9 @@ class SwotTest : TestCase() {
 
         // Iran sanctions are lifted
         assertEquals(true, isAcademic("lee@acmt.ac.ir"))
+        // Bishop Heber College, India
+        assertEquals(true, isAcademic("lee@bhc.edu.in"))
+        
     }
 
     fun testSchoolNames() {
