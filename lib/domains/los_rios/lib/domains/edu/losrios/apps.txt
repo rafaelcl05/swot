@@ -1,0 +1,6 @@
+Los Rios Community College
+American River College
+Folsom Lake College
+Cosumnes River College
+Sacramento City College
+.group
