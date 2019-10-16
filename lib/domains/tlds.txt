@@ -2,7 +2,6 @@ ac.ae
 ac.at
 ac.bd
 ac.be
-ac.cn
 ac.cr
 ac.cy
 ac.fj
@@ -77,7 +76,6 @@ edu.in
 edu.iq
 edu.jm
 edu.jo
-edu.kg
 edu.kh
 edu.kn
 edu.kw
