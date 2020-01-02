@@ -1,0 +1,6 @@
+All schools in the city of Espoo, Finland
+refs:
+    https://fi-domain.name/domain/eduespoo.fi
+    https://sites.google.com/edu.espoo.fi/eduespoo
+    
+.group
