@@ -1,1 +1,4 @@
 Suntechno College
+https://suntech.ac.jp/ (japanese)
+https://suntech.ac.jp/index_e.html (english)
+https://campus.suntech.jp/ (not accessible from other domains)
