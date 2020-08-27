@@ -1,10 +1,8 @@
 package swot
 
-fun isAcademic(emailOrDomain: String): Boolean {
-    if (emailOrDomain.contains("@alum")) return false
-
-    val parts = domainParts(emailOrDomain)
-    return !isBlacklisted(parts) && (isUnderTLD(parts) || findSchoolNames(parts).isNotEmpty())
+fun isAcademic(email: String): Boolean {
+    val parts = domainParts(email)
+    return !isStoplisted(parts) && (isUnderTLD(parts) || findSchoolNames(parts).isNotEmpty())
 }
 
 fun findSchoolNames(emailOrDomain: String): List<String> {
@@ -15,16 +13,16 @@ fun isUnderTLD(parts: List<String>): Boolean {
     return checkSet(Resources.tlds, parts)
 }
 
-fun isBlacklisted(parts: List<String>): Boolean {
-    return checkSet(Resources.blackList, parts)
+fun isStoplisted(parts: List<String>): Boolean {
+    return checkSet(Resources.stoplist, parts)
 }
 
 private object Resources {
     val tlds = readList("/tlds.txt") ?: error("Cannot find /tlds.txt")
-    val blackList = readList("/blacklist.txt") ?: error("Cannot find /blacklist.txt")
+    val stoplist = readList("/stoplist.txt") ?: error("Cannot find /stoplist.txt")
 
     fun readList(resource: String) : Set<String>? {
-        return javaClass.getResourceAsStream(resource)?.reader()?.buffered()?.lines()?.toHashSet()
+        return javaClass.getResourceAsStream(resource)?.reader()?.buffered()?.lineSequence()?.toHashSet()
     }
 }
 
@@ -42,10 +40,10 @@ private fun findSchoolNames(parts: List<String>): List<String> {
 }
 
 private fun domainParts(emailOrDomain: String): List<String> {
-    return emailOrDomain.trim().toLowerCase().substringAfter('@').substringAfter("://").substringBefore(':').split('.').reverse()
+    return emailOrDomain.trim().toLowerCase().substringAfter('@').substringAfter("://").substringBefore(':').split('.').reversed()
 }
 
-private fun checkSet(set: Set<String>, parts: List<String>): Boolean {
+internal fun checkSet(set: Set<String>, parts: List<String>): Boolean {
     val subj = StringBuilder()
     for (part in parts) {
         subj.insert(0, part)
