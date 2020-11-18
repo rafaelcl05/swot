@@ -1,0 +1,11 @@
+Bildungszentrum für Technik und gestaltung
+
+BZTG is an institute where you can get a degree, official website URL:
+https://www.bztg-oldenburg.de
+
+URL of a page on the official website where a long-term (>1 year) IT:
+https://www.bztg-oldenburg.de/bildungsangebot/berufsfachschulen/informatik/
+
+The student email differs from the official website, because only the teachers get an E-Mail with the official domain. 
+The student E-Mails are mainly used to get access to the office package.
+
