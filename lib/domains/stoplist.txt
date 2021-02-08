@@ -197,7 +197,6 @@ nwafu.edu.cn
 swu.edu.cn
 snnu.edu.cn
 hnu.edu.cn
-dlut.edu.cn
 clatsopcc.edu
 tmu.edu.cn
 sch.edu.af
