@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/swot.iml" filepath="$PROJECT_DIR$/swot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/swot.iml" filepath="$PROJECT_DIR$/.idea/swot.iml" />
     </modules>
   </component>
 </project>
