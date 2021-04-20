@@ -1,0 +1,4 @@
+Faculdade Barretos
+College Barretos
+
+domain = @unibarretos.com.br
