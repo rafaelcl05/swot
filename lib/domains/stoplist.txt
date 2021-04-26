@@ -276,7 +276,6 @@ student.carlalbert.edu
 lixin.edu.cn
 mymail.gaston.edu
 stu.nmu.edu.cn
-asu.edu
 nicu.ac.mu
 stu.cpu.edu.cn
 stu.xpu.edu.cn
@@ -294,7 +293,6 @@ ishikuniversity.net
 hiast.edu.vn
 jmu.edu.cn
 whu.edu.cn
-aof.anadolu.edu.tr
 zju.edu.cn
 uiot.ac.ug
 qhnu.edu.cn
@@ -330,7 +328,6 @@ ahzyygz.edu.cn
 hbut.edu.cn 
 nihaomeimei.me
 stu.peihua.edu.cn
-me
 cf
 gq
 ga
@@ -348,7 +345,6 @@ zut.edu.cn
 sz.pku.edu.cn
 mail.nwpu.edu.cn
 bestlistbase.com
-mail.ru
 m.fafu.edu.cn
 leonvero.com
 mailpoof.com
@@ -362,3 +358,18 @@ sufe.edu.cn
 shisu.edu.cn
 st.cupk.edu.cn
 tk
+lfnu.edu.cn
+eurasia.edu
+mails.mmnnsf.cn
+icamtech.com
+mail.fmftsk.cn
+ml
+paofu.us
+my.anokaramsey.edu
+post.eurasia.edu
+mziuri.edu.ge
+ljb.edu.hk
+lucbjtu.ac.uk
+asu.edu
+st.btbu.edu.cn
+hcmup.edu.vn
