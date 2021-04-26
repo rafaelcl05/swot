@@ -1,4 +1,0 @@
-Faculdade Barretos
-College Barretos
-
-domain = @faculdadebarretos.com.br
