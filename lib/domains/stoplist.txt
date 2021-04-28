@@ -217,7 +217,6 @@ tsinghua.pkumail.tech
 stu.haut.edu.cn
 sem.tsinghua.edu.cn
 mails.cust.edu.cn
-insite.4cd.edu
 cug.edu.cn
 mail.sustc.edu.cn
 alumni.usp.br
