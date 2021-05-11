@@ -311,7 +311,6 @@ bitzh.edu.cn
 std.uestc.edu.cn
 kashop.me
 stu.kust.edu.cn
-helwan.edu.eg
 my.tccd.edu
 gavilan.edu
 secupv.org
@@ -328,7 +327,6 @@ ahzyygz.edu.cn
 hbut.edu.cn 
 nihaomeimei.me
 stu.peihua.edu.cn
-me
 cf
 gq
 ga
@@ -374,3 +372,8 @@ lucbjtu.ac.uk
 asu.edu
 st.btbu.edu.cn
 hcmup.edu.vn
+miucce.com
+mhzayt.online
+twzhhq.online
+msjc.edu
+kg.edu.kg
