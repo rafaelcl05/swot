@@ -1,0 +1,21 @@
+{
+  "name": "@tabnine/swot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:codota/swot.git",
+  "author": "Amir Bilu <amirbilu@codota.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "prettier": "prettier --write src/",
+    "generate": "node dist/index.js"
+  },
+  "dependencies": {
+    "walkdir": "^0.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.5",
+    "prettier": "^2.3.2",
+    "typescript": "^4.3.4"
+  }
+}

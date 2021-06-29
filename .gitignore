@@ -3,3 +3,5 @@ Gemfile.lock
 *.gem
 .bundle
 .idea
+node_modules/
+dist/
