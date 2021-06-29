@@ -29,3 +29,6 @@ jobs:
         
       - name: Generate
         run: yarn --silent generate > domains.json && cat domains.json
+        
+      - name: Upload to s3
+        run: aws --version 
