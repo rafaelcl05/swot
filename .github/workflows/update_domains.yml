@@ -28,7 +28,7 @@ jobs:
         run: yarn && yarn build
         
       - name: Generate
-        run: yarn --silent generate > domains.json && cat domains.json
+        run: yarn --silent generate > domains.json
         
       - name: Upload to s3
         env:
