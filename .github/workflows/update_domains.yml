@@ -31,4 +31,7 @@ jobs:
         run: yarn --silent generate > domains.json && cat domains.json
         
       - name: Upload to s3
-        run: aws --version 
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrects.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrects.AWS_ACCESS_KEY_ID }}
+        run: aws s3 cp ./domains.json s3://tabnine-students/
