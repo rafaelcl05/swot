@@ -33,5 +33,5 @@ jobs:
       - name: Upload to s3
         env:
           AWS_ACCESS_KEY_ID: ${{ secrects.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrects.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrects.AWS_SECRET_ACCESS_KEY }}
         run: aws s3 cp ./domains.json s3://tabnine-students/
