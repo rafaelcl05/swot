@@ -40,7 +40,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit-message: Add ${{ github.event.inputs.domain }}
-          branch: update-academic-domains
+          branch: add-new-domain
           delete-branch: true
           title: "[Bot] Add ${{ github.event.inputs.domain }}"
           labels: |
