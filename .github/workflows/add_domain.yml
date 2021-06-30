@@ -1,0 +1,57 @@
+name: Add New Domain
+
+on:
+  workflow_dispatch:
+    inputs:
+      domain:
+        description: "The new domain (after the '@')"
+        required: true
+        default: ''
+      title:
+        description: "The formal name of the institute ('Massachusetts Institute of Technology' for MIT)"
+        required: true
+        default: ''
+
+jobs:
+  update:
+    name: Add New Domain
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14.16"
+
+      - name: Install
+        run: yarn --frozen-lockfile
+      - name: Build
+        run: yarn build
+
+      - name: Run yarn open pr command
+        run: yarn open:pr ${{ github.event.inputs.domain }} "${{ github.event.inputs.title }}"
+
+      - name: Create Pull Request
+        id: cpr
+        uses: codota/create-pull-request@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit-message: Add ${{ github.event.inputs.domain }}
+          branch: update-academic-domains
+          delete-branch: true
+          title: "[Bot] Add ${{ github.event.inputs.domain }}"
+          labels: |
+            domains
+            automated pr
+          assignees: maya-tabnine
+          team-reviewers: |
+            owners
+            maintainers
+
+      - name: Check outputs
+        run: |
+          echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+          echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
