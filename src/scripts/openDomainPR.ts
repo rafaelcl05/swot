@@ -12,7 +12,7 @@ function main() {
 
   const [domain, description] = args;
 
-  if (!/^[a-zA-Z.]*$/.test(domain)) {
+  if (!/^[a-zA-Z-.]*$/.test(domain)) {
     console.error(
       "Domain must be in the form of (xxx.)* [means only letters followed by dots]"
     );
