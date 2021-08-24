@@ -1,0 +1,8 @@
+Create ecedpup.ac.in
+
+Name: Department of Electronics and Communication Engineering
+University: Punjabi University, Patiala
+Domain: https://ecedpup.ac.in
+Courses: https://ecedpup.ac.in/Courses
+
+Thank you!
