@@ -3,7 +3,6 @@
     <CLASSES>
       <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime.jar!/" />
     </CLASSES>
-    <JAVADOC />
     <SOURCES>
       <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/" />
     </SOURCES>
