@@ -391,7 +391,6 @@ st.usst.edu.cn
 stu.t.edu.vn
 stu.wxic.edu.cn
 stu.xhsysu.edu.cn
-stu.xpu.edu.cn
 stu.zuel.edu.cn
 subr.edu
 suda.edu.cn
