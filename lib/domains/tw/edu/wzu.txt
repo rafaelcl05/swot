@@ -1,2 +1,3 @@
 文藻學校財團法人文藻外語大學
 Wenzao Ursuline University of Languages
+.group
