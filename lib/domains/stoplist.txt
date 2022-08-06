@@ -491,7 +491,6 @@ my.smccd.edu
 dragons.hutchcc.edu
 cihanuniversity.org
 stu.hit.edu.cn
-mails.tsinghua.edu.cn
 deltacollege.edu
 mgccc.edu
 masu.edu.cn
