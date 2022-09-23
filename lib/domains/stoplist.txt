@@ -641,3 +641,5 @@ northshore.edu
 students.prairiestate.edu
 uam.edu.co
 shjgu.edu.cn
+nub.edu.eg
+
