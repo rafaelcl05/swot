@@ -6,7 +6,7 @@ ahlg.ac.cn
 ahzyygz.edu.cn
 al.insper.edu.br
 alu.comillas.edu
-alu.fudan.edu.cn
+fudan.edu.cn
 alum.ccu.edu.tw
 alumni.albany.edu
 alumni.cmu.edu
@@ -669,3 +669,6 @@ mcl.edu.ph
 modern-academy.edu.eg
 alumno.uned.es
 365.ntcu.edu.tw
+mymail.mapua.edu.ph
+my.witcc.edu
+mku.ac.ke
