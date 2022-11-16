@@ -1,0 +1,3 @@
+National Textile University Faisalabad
+** This file is added to refer the email domain of university
+** Example : abc123@student.ntu.edu.pk
