@@ -1,3 +1,15 @@
 Colorado Community College System
 Arapahoe Community College
+Colorado Northwestern Community College
+Community College of Aurora
+Community College of Denver
+Front Range Community College
+Lamar Community College
+Morgan Community College
+Northeastern Junior College
+Otero College
+Pikes Peak State College
+Pueblo Community College
+Red Rocks Community College
+Trinidad State College
 .group
