@@ -398,7 +398,6 @@ s.upc.edu.cn
 sus.edu
 swccd.edu
 swpu.edu.cn
-swu.edu.cn
 sxlg.ac.cn
 sz.pku.edu.cn
 tccd.edu
