@@ -1,0 +1,3 @@
+Domain: technikum19.edu.pl
+Name: Technical School No. 19 named after Marshal Józef Piłsudski in Poznań
+Name (PL): Technikum nr 19 im. Marszałka Józefa Piłsudskiego w Poznaniu
