@@ -1,0 +1,11 @@
+Бердянський державний педагогічний університет
+Berdyansk State Pedagogical University
+
+
+the university official website URL, if it is different from the domain you are submitting
+https://bdpu.org.ua/
+
+a URL of a page on the official website where a long-term (>1 year) IT related course is offered by the university
+https://bdpu.org.ua/en/faculties/fmkto/structure-fmkto/kaf-ktun/awareness-programs-ktun/bachelor-ktun/prof-comp-techn/prof-edu-comp-techn-2019/
+https://bdpu.org.ua/en/faculties/fmkto/structure-fmkto/kaf-ktun/awareness-programs-ktun/bachelor-ktun/second-education-informatics/op-so-bak-inf-2019/
+
