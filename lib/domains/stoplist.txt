@@ -1303,3 +1303,5 @@ g.skku.edu
 georgetown.edu
 student.iuh.edu.vn
 students.gov.ge
+stu.huel.edu.cn
+ustc.edu
