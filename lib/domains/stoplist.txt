@@ -1337,3 +1337,4 @@ est.unicaribe.edu.do
 stud.ur.edu.pl
 uit.edu.vn
 brandeis.edu
+alu.cqu.edu.cn
