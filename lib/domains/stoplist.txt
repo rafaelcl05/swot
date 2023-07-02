@@ -1341,5 +1341,13 @@ etu.u-pec.fr
 ucsdawei.edu.mm
 alu.cqu.edu.cn
 skku.edu
+deakin.edu.au
+njtc.edu.cn
+omareyah.edu.jo
+bistu.edu.cn
+ogr.uludag.edu.tr
+upb.edu.co
+uaf.edu.pk
+ogr.ktu.edu.tr
 student.kdupg.edu.my
 student.ltuc.com
