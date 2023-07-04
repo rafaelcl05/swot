@@ -943,7 +943,6 @@ mail.tdc.edu.vn
 huaf.edu.vn
 rmu.ac.th
 nttu.edu.vn
-vnu.edu.vn
 sv.ussh.edu.vn
 alumni.anu.edu.au
 student.mmarau.ac.ke
