@@ -600,7 +600,6 @@ uraccan.edu.ni
 unasam.edu.pe
 stu.ftccollege.edu
 gtc.edu
-utp.edu.pe
 ute.edu.mx
 pace.edu
 unadvirtual.edu.co
