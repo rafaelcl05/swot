@@ -696,7 +696,6 @@ hbtcm.edu.cn
 campusucc.edu.co
 student.utem.edu.my
 pucgo.edu.br
-mahasiswa.itb.ac.id
 case.edu
 uncp.edu.pe
 edu.azores.gov.pt
@@ -747,7 +746,6 @@ xy.hbuas.edu.cn
 colegio-venecia.edu.mx
 hust.edu.vn
 o6u.edu.eg
-mahasiswa.itb.ac.id
 s.unikl.edu.my
 oshs.edu.ba
 email.zzuli.edu.cn
