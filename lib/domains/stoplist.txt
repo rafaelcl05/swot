@@ -859,7 +859,6 @@ bub.edu.bh
 correo.uis.edu.co
 etudiant.edcparis.edu
 archten.croydon.sch.uk
-student.chula.ac.th
 sharjah.ac.ae
 alumno.uaemex.mx
 mail.imu.edu.cn
@@ -1599,7 +1598,6 @@ post.bgu.ac.il
 unibge.hu
 moestudents.edu.kn
 nvsu.edu.ph
-chula.ac.th
 student.utcb.ro
 mhs.its.ac.id
 moe.edu.kn
