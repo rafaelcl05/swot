@@ -1,0 +1,11 @@
+Staatliche Berufsschule I Bayreuth
+
+Link to IT-course (3 years):
+  https://www.bs1-bt.de/berufsschule/it
+
+Staff Email:
+  firstname.surname@bs1-bt.de
+
+Students Emails differ from staff:
+  firstname.surename@schueler.bs1-bt.de
+
