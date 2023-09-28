@@ -1,1 +1,4 @@
-San Bernardino Community College
+San Bernardino Community College District
+San Bernardino Valley College, valleycollege.edu
+Crafton Hills College, craftonhills.edu
+.group
