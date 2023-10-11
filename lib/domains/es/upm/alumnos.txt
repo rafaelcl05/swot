@@ -1,0 +1,9 @@
+Name of the Institution in Spanish: Universidad Politécnica de Madrid.
+
+Name of the Institution in English: Polytechnic University of Madrid.
+
+Main URL of the Institution: https://www.upm.es/
+
+URL of the official website, where long term IT studies can be seen: https://www.etsiinf.upm.es/?id=estudios
+
+Proof that the domain @alumnos.upm.es belongs to the Institution: https://www.upm.es/UPM/ServiciosTecnologicos/email/PersonalInstitucionales/Ayuda/ConfiguracionClientes/DatosConfiguracion
