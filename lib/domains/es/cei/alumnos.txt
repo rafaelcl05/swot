@@ -1,11 +1,2 @@
 CEI Escuela de Diseño y Marketing - Madrid
 CEI Design and Marketing School - Madrid
-
-Web de la escuela: https://cei.es/
-Web de cursos relacionados con IT:
-https://cei.es/cei-curso/master-aplicaciones-web-marketing-digital/
-https://cei.es/cei-curso/master-desarrollo-web/
-https://cei.es/cei-curso/titulo-superior-desarrollo-web-marketing-digital/
-https://cei.es/cei-curso/titulo-superior-diseno-grafico-web/
-https://cei.es/cei-curso/posgrado-en-diseno-y-desarrollo-web/
-https://cei.es/cei-curso/grado-superior-en-desarrollo-de-aplicaciones-web-daw-a-distancia-online/
