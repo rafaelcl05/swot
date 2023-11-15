@@ -1226,7 +1226,7 @@ alunos.unisagrado.edu.br
 fatecie.edu.br
 kwiatek365.pl
 nuv.ac.in
-alumnos.utn.edu.mx
+utn.edu.mx
 stu.mju.edu.cn
 qvtu.edu.cn
 mail.ypu.edu.tw
@@ -1589,7 +1589,6 @@ education.nsw.gov.au
 ui.ac.id
 sempreunama.com.br
 essec.edu
-post.bgu.ac.il
 unibge.hu
 moestudents.edu.kn
 nvsu.edu.ph
@@ -1867,3 +1866,13 @@ ricstudent.com
 el-eng.menofia.edu.eg
 knust.edu.gh
 hce.edu.vn
+ftu.edu.vn
+world.edu
+stu.bzuu.edu.cn
+bereabeautyacademy.edu
+njupt.edu.cn
+o365.cyut.edu.tw
+commanderijcollege.nl
+nwnu.edu.cn
+lpunetwork.edu.ph
+tiangong.edu.cn
