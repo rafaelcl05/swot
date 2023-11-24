@@ -36,6 +36,7 @@ edu.dz
 edu.ee
 edu.er
 edu.gh
+edu.gn
 edu.hn
 edu.in
 edu.kz
