@@ -4,4 +4,6 @@ Gemfile.lock
 .bundle
 .idea
 .gradle
+.vscode
+.github
 build
