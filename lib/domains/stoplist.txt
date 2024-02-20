@@ -1830,7 +1830,6 @@ cougars.csusm.edu
 emu.edu.tr
 studenti.uniba.it
 bereabeautyacademy.edu
-ogr.iu.edu.tr
 uop.gr
 ee.duth.gr
 auth.gr
