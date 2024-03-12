@@ -1,0 +1,39 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+#content {
+    padding: 20px;
+    text-align: center;
+}
+.carousel {
+    position: relative;
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.carousel-image {
+    width: 100%;
+    display: block; /* Ensures the image is well-placed and centered */
+}
+
+.carousel-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #444;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+#prevButton {
+    left: 0;
+}
+
+#nextButton {
+    right: 0;
+}
