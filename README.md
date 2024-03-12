@@ -1,5 +1,5 @@
 [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
-# swot
+# SWOT
 
 JetBrains uses this **swot** repository to grant free licenses for JetBrains tools to students and teachers worldwide. If your email is in one of the domains listed in this repository, you may request your free license from JetBrains. Visit http://jetbrains.com/student to request!
 
@@ -35,26 +35,27 @@ Other lines can contain other names the university is known by. A university in 
 4. If the domain is shared by several institutions, such a school district domain, please add the last line starting with a dot (`.`) followed by the word "group". Example:
 `.group`
 
-#### How to add the domain quicker
-> We merge pull requests manually and check the information which you have provided us with before merging it.
-> Thus, if you wish to make the verification process easier for us and therefore much quicker, please mention the following in your comment to the request:
-> * the university official website URL, if it is different from the domain you are submitting
-> * a URL of a page on the official website where a long-term (>1 year) IT related course is offered by the university
-> * a URL of a page or some other proof (.pdf or a screenshot are OK) showing that the university recognizes the domain which you are submitting as an official email domain for the enrolled students.
+# Kotlin-Training |
 
-## How to change a domain in this repository
-If a university changes its email domain or name, you can submit a pull request with the necessary changes.
+[![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Revved up by Develocity](https://img.shields.io/badge/Revved%20up%20by-Develocity-06A0CE?logo=Gradle&labelColor=02303A)](https://ge.jetbrains.com/scans?search.rootProjectNames=Kotlin)
 
-## Additional references
-Please refer to the `CONTRIBUTING.md` file in this repository to read more about the repository structure and contributing rules.
+# Kotlin Programming Language
 
-## FAQ
-#### There are many domains in my university, how can I add all of them?
-If all the domains used for teachers' and students' email are in the same upper-level domain, you can add the upper-level domain. For example, if there is a domain `joedoe.org` owned by a university, and there are subdomains such as `stud.joedoe.org` and `prof.joedoe.org`, used by the students and the teachers respectively, you can add `joedoe.org` domain only, and both students and teachers will be able to request their free licenses.
+Welcome to [Kotlin](https://kotlinlang.org/)!   
+It is an open-source, statically typed programming language supported and developed by [JetBrains](https://www.jetbrains.com/) and open-source contributors.
 
-However, if the upper-level domain is also used by alumni, research staff, and other people who do not participate in education directly, we encourage you to add separate subdomains, if it is possible.
+Some handy links:
 
-If the university uses several email domains in different upper-level domains (for example, `euroacademia.ee` and `euroacademia.eu`), please submit several files with different paths and the same content (i.e., same name of the university) in your pull request.
-
-#### Some universities have their names duplicated in the first and the second line in the respective .txt file in this repository. Shall I put the university name twice in my .txt file to have the domain added?
-No, it's not needed. However, nothing bad happens if you do it, don't worry. It does not affect our decision on your request. 
+ * [Kotlin Site](https://kotlinlang.org/)
+ * [Getting Started Guide](https://kotlinlang.org/docs/tutorials/getting-started.html)
+ * [Try Kotlin](https://play.kotlinlang.org/)
+ * [Kotlin Standard Library](https://kotlinlang.org/api/latest/jvm/stdlib/index.html)
+ * [Issue Tracker](https://youtrack.jetbrains.com/issues/KT)
+ * [Kotlin YouTube Channel](https://www.youtube.com/channel/UCP7uiEZIqci43m22KDl0sNw)
+ * [Forum](https://discuss.kotlinlang.org/)
+ * [Kotlin Blog](https://blog.jetbrains.com/kotlin/)
+ * [Subscribe to Kotlin YouTube channel](https://www.youtube.com/channel/UCP7uiEZIqci43m22KDl0sNw)
+ * [Follow Kotlin on Twitter](https://twitter.com/kotlin)
+ * [Public Slack channel](https://slack.kotlinlang.org/)
+ * [TeamCity CI build](https://teamcity.jetbrains.com/project.html?tab=projectOverview&projectId=Kotlin)
