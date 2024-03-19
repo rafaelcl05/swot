@@ -525,6 +525,7 @@ slc.ubc.ca
 alumni.ubc.ca
 sv.ussh.edu.vn
 yznu.edu.cn
+uss.edu.pe
 stu.zjhu.edu.cn
 rmutl.ac.th
 cacc.edu
