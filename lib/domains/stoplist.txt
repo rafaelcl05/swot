@@ -524,6 +524,7 @@ link.tyut.edu.cn
 slc.ubc.ca
 alumni.ubc.ca
 sv.ussh.edu.vn
+uss.edu.pe
 yznu.edu.cn
 stu.zjhu.edu.cn
 rmutl.ac.th
