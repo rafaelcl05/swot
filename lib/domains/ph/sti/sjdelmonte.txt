@@ -1,1 +1,2 @@
 STI College San Jose Delmonte Bulacan
+domain: sjdelmonte.sti.edu.ph
