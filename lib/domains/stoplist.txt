@@ -1057,7 +1057,6 @@ kastamonu.edu.tr
 subu.edu.tr
 ogrenci.bartin.edu.tr
 psu.ac.th
-kmutt.ac.th
 ataa.sch.sa
 alumno.buap.mx
 alumni.habib.edu.pk
@@ -1884,7 +1883,6 @@ soy.sena.edu.co
 student.bccc.edu
 projecao.edu.br
 alumnos.uat.edu.mx
-uni-bremen.de
 odessa.edu
 iwcc.edu
 alex3.moe.edu.eg
@@ -1908,7 +1906,6 @@ kkumail.com
 cassia.kku.ac.th
 alias.kkumail.com
 imail.sunway.edu.my
-edu.bme.hu
 apps.ajou.ac.kr
 office365.kunsan.ac.kr
 s.konan-u.ac.jp
