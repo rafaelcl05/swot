@@ -1700,7 +1700,6 @@ ufuk.edu.tr
 kku.edu.tr
 mezun.deu.edu.tr
 emu.edu.tr
-ogr.iu.edu.tr
 retired.bogazici.edu.tr
 alum.bogazici.edu.tr
 ybu.edu.tr
