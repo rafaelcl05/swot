@@ -72,7 +72,6 @@ al.insper.edu.br
 alumni.usp.br
 faculdadefia.edu.br
 pucgo.edu.br
-aluno.unip.br
 aluno.unicarioca.edu.br
 ufpa.br
 aluno.ies.edu.br
@@ -1098,7 +1097,6 @@ eap.gr
 ac.eap.gr
 uop.gr
 ee.duth.gr
-auth.gr
 uniwa.gr
 uowm.gr
 aua.gr
@@ -1871,3 +1869,5 @@ suez.edu.eg
 gndec.ac.in
 schools.vic.edu.au
 ms.kbu.ac.th
+hbucm.edu.cn
+gcsurat.gujgov.edu.in
