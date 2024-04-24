@@ -461,7 +461,6 @@ wfl.sh.edu.cn
 ict.ac.cn
 stu.nwupl.edu.cn
 uibe.edu.cn
-mail.hnust.edu.cn
 stu.fafu.edu.cn
 uibe.edu.cn
 mail.scuec.edu.cn
