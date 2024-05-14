@@ -1814,3 +1814,8 @@ zju.edu.cn
 stu.xidian.edu.cn
 whu.edu.cn
 hust.edu.cn
+alumno.ujat.mx
+wesleyan.edu.ph
+students.trinitydc.edu
+g.tu.ac.kr
+o365.tu.ac.kr
