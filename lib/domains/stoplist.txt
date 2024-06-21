@@ -281,7 +281,7 @@ tjdx.ac.cn
 tju.edu.cn
 tmu.edu.cn
 t.odmail.cn
-tongji.edu.cn
+alumni.tongji.edu.cn
 usst.edu.cn
 ustb.edu.cn
 ustc.edu.cn
