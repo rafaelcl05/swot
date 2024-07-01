@@ -1,3 +1,4 @@
 Université Sultan Moulay Slimane
 Sultan Moulay Slimane University
 USMS
+.group
