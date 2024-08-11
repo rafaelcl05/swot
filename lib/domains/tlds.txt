@@ -5,7 +5,6 @@ ac.gn
 ac.il
 ac.in
 ac.jp
-ac.kr
 ac.me
 ac.mw
 ac.ni
@@ -21,7 +20,6 @@ ac.zm
 ed.ao
 ed.cr
 ed.jp
-edu
 edu.al
 edu.ar
 edu.az
@@ -36,6 +34,7 @@ edu.dz
 edu.ee
 edu.er
 edu.gh
+edu.hk
 edu.hn
 edu.in
 edu.kz
@@ -43,6 +42,7 @@ edu.lr
 edu.ly
 edu.mg
 edu.ml
+edu.mo
 edu.mv
 edu.mw
 edu.ni
@@ -75,5 +75,3 @@ sch.om
 sch.ps
 sch.sa
 school.za
-vic.edu.au
-urfu.me
