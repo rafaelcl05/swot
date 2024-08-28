@@ -1290,7 +1290,6 @@ mymail.tstc.edu
 uzem.education
 isbstudent.comsats.edu.pk
 ecampus.ut.ac.id
-unal.edu.co
 acu.edu.eg
 edison.k12.nj.us
 uman.edu.mx
