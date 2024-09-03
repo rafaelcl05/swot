@@ -43,7 +43,6 @@ alum.us.es
 alum.utoronto.ca
 alumno.buap.mx
 alumno.uaemex.mx
-alumno.udb.edu.sv
 alumno.udg.mx
 alumno.ujat.mx
 alumno.utesa.edu
@@ -76,7 +75,7 @@ anu.edu.gh
 app
 apus.edu
 archten.croydon.sch.uk
-art.dmu.edu.eg
+dmu.edu.eg
 asoiu.edu.az
 asu.edu.eg
 ataa.sch.sa
@@ -158,12 +157,10 @@ cientifica.edu.pe
 cihanuniversity.org
 cis.edu.eg
 cit.edu
-cit.just.edu.jo
 clackamas.edu
 clatsopcc.edu
 cloudlearn.tech
 clpccd.edu
-cmich.edu
 cmru.ac.th
 coastalbend.edu
 cochise.edu
@@ -173,10 +170,8 @@ colc.co
 colegio-venecia.edu.mx
 colegio.univalle.edu
 colegiotorremalmuerta.es
-collegelacite.ca
 collin.edu
 colmayor.edu.co
-colorado.edu
 colostate.edu
 com.edu
 commanderijcollege.nl
@@ -342,7 +337,6 @@ georgetown.edu
 ghanacu.org
 ghazanthemprep.org
 giant.cos.edu
-giki.edu.pk
 gndec.ac.in
 go.minnstate.edu
 go.pasadena.edu
@@ -350,7 +344,6 @@ go.shoreline.edu
 gq
 green.ac.bd
 gtc.edu
-gtu.edu.tr
 gulfuniversity.edu.bh
 gumed.edu.pl
 guru.sd.belajar.id
@@ -407,7 +400,6 @@ isik.edu.tr
 isise.edu.pe
 istudent.unisel.edu.my
 itb.edu.ec
-itc.ac.kr
 itc.edu.co
 itc.edu.khmoestudents.edu.kn
 itca.edu.sv
@@ -419,7 +411,6 @@ itstep.academy
 ittc.edu.vn
 iu.edu.jo
 iub.edu.pk
-ivytech.edu
 iwcc.edu
 jcjc.edu
 jfn.ac.lk
@@ -460,9 +451,7 @@ kthcm.edu.vn
 kuic.kyonggi.ac.kr
 kwiatek365.pl
 kyile.website
-lacitec.on.ca
 lamarpa.edu
-lau.edu
 lawsonstate.edu
 lbwcc.edu
 lcps.org
@@ -507,7 +496,6 @@ mail.escuelaing.edu.co
 mail.hrka.net
 mail.icmbs.sch.id
 mail.irsc.edu
-mail.lcc.edu
 mail.ltcc.edu
 mail.mss.sc.ug
 mail.mzr.me
@@ -541,7 +529,6 @@ mbz.ens.sch.ae
 mcast.edu.mt
 mccann.edu
 mccc.edu
-mccd.edu
 mcl.edu.ph
 mclennan.edu
 mdx.ac
@@ -559,7 +546,6 @@ mgt.sjp.ac.lk
 mhs.its.ac.id
 mhzayt.online
 mi.unc.edu.ar
-miamioh.edu
 miitt.space
 mined.edu.sv
 miniauniv.edu.eg
@@ -782,7 +768,6 @@ rmuti.ac.th
 rmutl.ac.th
 rmutr.ac.th
 rmutto.ac.th
-rochester.edu
 rocks
 roxbury.edu
 rrlc.tu.edu.np
@@ -794,7 +779,6 @@ rutgers.edu
 s.unikl.edu.my
 sabah.edu.az
 sacsites.csus.edu
-saddleback.edu
 salem.k12.va.us
 sanbeda.edu.ph
 sandyupper.net
@@ -858,7 +842,6 @@ southwest.tn.edu
 soy.sena.edu.co
 spjain.org
 spobcollege.edu
-spokane.edu
 spscc.edu
 spulive.net
 sss-pv.edu.me
@@ -887,7 +870,6 @@ std.kyu.ac.ug
 std.neu.edu.tr
 std.nisantasi.edu.tr
 std.yildiz.edu.tr
-sti.edu.ph
 stlcc.edu
 stmail.tanenbaumchat.org
 stonabemowie.edu.pl
@@ -919,7 +901,6 @@ stu.uob.edu.bh
 stud.iuav.it
 stud.ur.ac.rw
 stud.ur.edu.pl
-student.alamo.edu
 student.angelina.edu
 student.annauniv.edu
 student.bahria.edu.pk
@@ -1087,7 +1068,6 @@ uac.edu.co
 uadec.edu.mx
 uaem.edu.mx
 uaf.edu.pk
-ualberta.ca
 uam.edu.co
 uam.edu.pa
 uanl.edu.mx
@@ -1115,13 +1095,11 @@ ucsm.edu.pe
 ucsy.edu.mm
 ucuenca.edu.ec
 udca.edu.co
-udec.cl
 udenar.edu.co
 udla.edu.co
 udsu.ru
 ues.edu.sv
 uet.edu.pk
-ufabc.edu.br
 ufhec.edu.do
 ufide.ac.cr
 ufidelitas.ac.cr
@@ -1254,7 +1232,6 @@ vanlanguni.vn
 vcccd.edu
 vccs.edu
 vctx.edu
-vetmed.dmu.edu.eg
 vict.edu.ht
 vief.edu.vn
 vikings.grayson.edu
@@ -1296,3 +1273,30 @@ alumnos.uacj.mx
 sis.hust.edu.vn
 mnmjec.ac.in
 uniroma1.it
+aluno.uece.br
+economicas.uba.ar
+uma.es
+niu.edu.tw
+mu.edu.eg
+alu.uma.es
+helwan.edu.eg
+mymail.tstc.edu
+uzem.education
+isbstudent.comsats.edu.pk
+ecampus.ut.ac.id
+unal.edu.co
+acu.edu.eg
+edison.k12.nj.us
+uman.edu.mx
+pucgo.edu.br
+student.mmu.edu.my
+faculdadebarretos.com.br
+correo.ugr.es
+uwarsaw.edu.pl
+hj.ac.kr
+cau.ac.kr
+aluno.newtonpaiva.br
+geu.ac.in
+aluno.uniasselvi.com.br
+sandiego.edu
+tepeaca.tecnm.mx
