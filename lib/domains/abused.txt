@@ -951,7 +951,6 @@ student.nocccd.edu
 student.northampton.edu
 student.nust.edu.pk
 student.oaklandcc.edu
-student.ohlone.edu
 student.olympic.edu
 student.owens.edu
 student.prasetiyamulya.ac.id
