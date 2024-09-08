@@ -7,3 +7,6 @@ Gemfile.lock
 build
 /lib/domains/stoplist-old.txt
 /lib/domains/stoplistsort.py
+bin/main/swot/Compiler.kt
+bin/main/swot/Swot.kt
+bin/test/swot/SwotTest.kt
