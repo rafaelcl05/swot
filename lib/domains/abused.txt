@@ -88,7 +88,6 @@ aulamexiquense.mx
 aurora.ekof.bg.ac.rs
 aust.ae
 aust.edu.lb
-austincc.edu
 australia.edu
 avicenna.uobasrah.edu.iq
 aya.yale.edu
@@ -176,7 +175,6 @@ comunidad.unam.mx
 comunidadort.edu.ar
 conalep.edu.mx
 conalepmex.edu.mx
-continental.edu.pe
 converse.edu
 correo.icesi.edu.co
 correo.itm.edu.co
@@ -1308,3 +1306,4 @@ uttcampus.edu.mx
 alunos.unifbv.edu.br
 zu.edu.eg
 utyac.onmicrosoft.com
+wesleyan.edu
