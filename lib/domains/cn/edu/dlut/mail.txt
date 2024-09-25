@@ -1,0 +1,5 @@
+Dalian University of Technology
+大连理工大学
+URL: http://www.dlut.edu.cn/
+EMali URL: https://mail.dlut.edu.cn/
+Note: Our school has two emali domains. One is for teacher, the other one is for student.(i.e., usrname@mali.dlut.edu.cn)
