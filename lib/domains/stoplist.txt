@@ -355,7 +355,6 @@ alumni.uniba.it
 alumni.upenn.edu
 alumni.vcu.edu
 alumni.virginia.edu
-alumni.zstu.edu.cn
 alumni365.dmu.ac.uk
 alumni.undip.ac.id
 office.undip.ac.id
@@ -463,3 +462,4 @@ stu.bayburt.edu.tr
 alumni.rice.edu
 cet.edu
 innopolis.university
+shu.edu.tw
