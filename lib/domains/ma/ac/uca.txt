@@ -1,2 +1,6 @@
-Université Cadi Ayyad
-Cadi Ayyad University
+Hello, please add my university's domain name.
+University name: Cadi Ayyad University
+Faculty Name: Faculty of Sciences Semlalia
+Url of the official site: https://www.uca.ma/fssm/fr
+Faculty E-campus link: https://ecampus-fssm.uca.ma/login/index.php
+Academic account email structure: xxxxxxx@uca.ac.ma
