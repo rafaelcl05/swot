@@ -178,7 +178,6 @@ scu.edu.cn
 scuec.edu.cn
 scun.edu.cn
 sdju.edu.cn
-sdnu.edu.cn
 sdufe.edu.cn
 sdust.edu.cn
 sdut.edu.cn
@@ -238,7 +237,6 @@ stu.peihua.edu.cn
 stu.qlu.edu.cn
 stu.scau.edu.cn
 stu.scu.edu.cn
-stu.sdnu.edu.cn
 stu.shzu.edu.cn
 stu.sicnu.edu.cn
 stu.sisu.edu.cn
