@@ -40,7 +40,6 @@ alum.ubc.ca
 alum.uca.es
 alum.urmc.rochester.edu
 alum.us.es
-alum.utoronto.ca
 alumno.buap.mx
 alumno.uaemex.mx
 alumno.udg.mx
@@ -405,7 +404,6 @@ jmpaneracollege.com
 just.edu.jo
 kafrelsheikh2.moe.edu.eg
 kashop.me
-kastamonu.edu.tr
 kbtc.edu.mm
 kbtut.tj
 kg.edu.kg
@@ -434,6 +432,7 @@ kst.edu.sg
 ksu.edu.bi
 kthcm.edu.vn
 kuic.kyonggi.ac.kr
+kyonggi.ac.kr
 kwiatek365.pl
 kyile.website
 lamarpa.edu
@@ -1148,7 +1147,6 @@ uotago.ac.nz
 uowm.gr
 up.ac.pa
 up.ac.th
-upana.edu.gt
 upb.edu.co
 upd.edu.ph
 upeu.edu.pe
@@ -1183,7 +1181,6 @@ utg.edu.gm
 utmachala.edu.ec
 utn.edu.mx
 utp.edu.br
-utp.edu.co
 uts.edu.co
 uts.edu.ve
 uttab.edu.mx
@@ -1324,3 +1321,10 @@ seu.edu.cn
 unsaac.edu.pe
 talento.tls.edu.pe
 wsfcsstudents.net
+student.lnu.se
+itstep.edu.az
+ks.ac.kr
+apps.nsd.org
+myu.universitecentrale.tn
+umbc.edu
+mail.fresnostate.edu
