@@ -1,3 +1,4 @@
+id.ac
 2011.cqut.edu.cn
 2012.cqut.edu.cn
 2013.cqut.edu.cn
@@ -326,6 +327,7 @@ zknu.edu.cn
 zucc.edu.cn
 zuel.edu.cn
 zut.edu.cn
+alum.utoronto.ca
 alumni.albany.edu
 alumni.anu.edu.au
 alumni.bham.ac.uk
@@ -438,7 +440,6 @@ agr.dmu.edu.eg
 ahyz.edu.cn
 lvu.edu.vn
 npcmstsfc.com
-umbc.edu
 alumni.stcl.edu
 csa.concordia.ab.ca
 metodista.br
@@ -491,7 +492,6 @@ atc.edu
 bu.edu.eg
 swmich.edu
 student.ssc.edu
-mail.fresnostate.edu
 wcstudents.wc.edu
 my.lsco.edu
 student.alvincollege.edu
@@ -512,3 +512,7 @@ chntheatre.edu.cn
 email.cufe.edu.cn
 mail.szpu.edu.cn
 alumni.bentley.edu
+altoona.k12.wi.us
+wauwatosa.k12.wi.us
+as.edu.sa
+kgu.ac.kr
