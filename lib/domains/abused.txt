@@ -656,7 +656,7 @@ office.itb.ac.id
 office.ui.ac.id
 office.uos.ac.kr
 ofppt-edu.ma
-ogr.akdeniz.edu.tr
+akdeniz.edu.tr
 ogr.alanya.edu.tr
 ogr.altinbas.edu.tr
 ogr.atauni.edu.tr
@@ -1147,7 +1147,6 @@ uotago.ac.nz
 uowm.gr
 up.ac.pa
 up.ac.th
-upana.edu.gt
 upb.edu.co
 upd.edu.ph
 upeu.edu.pe
@@ -1182,7 +1181,6 @@ utg.edu.gm
 utmachala.edu.ec
 utn.edu.mx
 utp.edu.br
-utp.edu.co
 uts.edu.co
 uts.edu.ve
 uttab.edu.mx
@@ -1328,3 +1326,11 @@ itstep.edu.az
 ks.ac.kr
 apps.nsd.org
 myu.universitecentrale.tn
+umbc.edu
+mail.fresnostate.edu
+sanluis.edu.ar
+bup.edu.bd
+o365.yonsei.ac.kr
+ubt-uni.net
+correo.tdea.edu.co
+st.uskudar.edu.tr
