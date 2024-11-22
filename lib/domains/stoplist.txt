@@ -557,3 +557,6 @@ hanma.kr
 stu.kmu.edu.tr
 alumni.ied.edu
 office.yonam.ac.kr
+alu.xpu.edu.cn
+zjut.edu.cn
+o365.msu.ac.th
