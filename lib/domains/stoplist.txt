@@ -562,3 +562,7 @@ o365.msu.ac.th
 g.seoultech.ac.kr
 sisu.edu.cn
 gatewaycollege.lk
+kalama.k12.wa.us
+stu.nthurston.k12.wa.us
+ipe.buet.ac.bd
+caa.columbia.edu

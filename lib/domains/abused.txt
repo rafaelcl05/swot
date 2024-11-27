@@ -122,7 +122,6 @@ buc.blinn.edu
 buc.edu.eg
 byu.net
 c3chuvanan.edu.vn
-caa.columbia.edu
 cacc.edu
 caccmail.cacc.edu
 calamba.sti.edu.ph
@@ -962,7 +961,7 @@ student.wallacestate.edu
 student.whatcom.edu
 studenti.poliba.it
 students.cccti.edu
-students.clark.edu
+clark.edu
 students.fui.edu.pk
 students.gov.ge
 students.highline.edu
@@ -1422,3 +1421,7 @@ sgu.edu.vn
 rupp.edu.kh
 philadelphia.edu.jo
 sempreuninassau.com.br
+pup.edu.ph
+upes.ac.in
+eelu.edu.eg
+kookmin.kr
