@@ -44,6 +44,8 @@ class SwotTest : TestCase() {
 
         assertEquals(false, isAcademic("imposter@si.edu"))
         assertEquals(false, isAcademic("lee@mdu.edu.rs"))
+        assertEquals (true , isAcademic("ucp.edu.pk"))
+
 
         // Iran sanctions are lifted
         assertEquals(true, isAcademic("lee@acmt.ac.ir"))
