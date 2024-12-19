@@ -574,3 +574,4 @@ m365.nycu.edu.tw
 languagesystems.edu
 sagrado.edu
 office.kaya.ac.kr
+bh.knu.ac.kr
