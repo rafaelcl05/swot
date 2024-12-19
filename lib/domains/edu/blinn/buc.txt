@@ -1,0 +1,22 @@
+Name: Blinn College
+
+URL: https://www.blinn.edu/
+
+Address:
+
+902 College Avenue
+Brenham, TX 77833 
+United States of America
+URLs for IT-related long term courses:
+
+https://www.blinn.edu/computer-science/index.html
+https://www.blinn.edu/academics/degrees/MBET/as-computer-science.html
+https://www.blinn.edu/academics/degrees/MBET/as-computer-information-systems.html
+https://www.blinn.edu/academics/degree-certificates/cloud-computing-aas.html
+
+
+Proof of official email domain for students:
+
+Login page: https://www.outlook.com/buc.blinn.edu
+Student portal leading to the login page: https://my.blinn.edu
+Student handbook referencing the email domain: https://catalog.blinn.edu/content.php?catoid=18&navoid=794
