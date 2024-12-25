@@ -227,7 +227,6 @@ eap.gr
 eastafricauniversity.net
 ebimal.edu.ar
 eco.maranatha.edu
-ecu.edu.eg
 edu.arh.bg.ac.rs
 edu.azores.gov.pt
 edu.cdsj6.edu.mo
@@ -318,7 +317,6 @@ g.hongik.ac.kr
 g.tu.ac.kr
 gcsurat.gujgov.edu.in
 gemselearning.com
-georgetown.edu
 ghanacu.org
 ghazanthemprep.org
 giant.cos.edu
@@ -330,7 +328,7 @@ green.ac.bd
 gtc.edu
 gulfuniversity.edu.bh
 gumed.edu.pl
-guru.sd.belajar.id
+belajar.id
 hacc.edu
 haiphong.itrithuc.vn
 hanoi.itrithuc.vn
@@ -461,7 +459,6 @@ lumstu.com
 mabankisd.net
 mackenzista.com.br
 madina.ac.ma
-madisoncollege.edu
 mahasiswa.itb.ac.id
 mahidol.ac.th
 mail.0du.win
@@ -1425,3 +1422,10 @@ upes.ac.in
 eelu.edu.eg
 kookmin.kr
 kdis.ac.kr
+kfs.edu.eg
+iuh.edu.vn
+nu.edu.eg
+bau.edu.jo
+knu.ac.kr
+ump.edu.vn
+kimpo.ac.kr
