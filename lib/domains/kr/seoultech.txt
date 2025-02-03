@@ -2,4 +2,6 @@
 SeoulTech
 Seoultech
 SEOULTECH
+seoultech
+seoultech.ac.kr
 Seoul National University of Science and Technology
