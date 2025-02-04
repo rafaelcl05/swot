@@ -1335,4 +1335,4 @@ uemg.br
 ptu.ac.kr
 est.emi.edu.bo
 usp.ac.fj
-me
+rtu.edu.ph
