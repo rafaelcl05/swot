@@ -622,3 +622,4 @@ acu.edu.kg
 ink
 poly.edu.rs
 kun.edu.kg
+my.csun.edu
