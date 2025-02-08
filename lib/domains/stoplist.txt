@@ -623,9 +623,6 @@ upscmd.tech
 poly.edu.rs
 kun.edu.kg
 my.csun.edu
-ust.edu.kg
-kousat.org
-kousat.tech
 uest.edu.kg
 aynu.me
 top
@@ -637,6 +634,5 @@ uphsl.edu.ph
 batmu.edu.kg
 knau.edu.kg
 tss.edu.kg
-ust.edu.kg
 aa.edu.kg
 pccinternational.org
