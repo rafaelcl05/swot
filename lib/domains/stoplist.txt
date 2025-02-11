@@ -640,3 +640,6 @@ tss.edu.kg
 aa.edu.kg
 pccinternational.org
 c5.hk
+c5.hk
+uest.edu.kg
+aa.edu.kg
