@@ -584,7 +584,6 @@ mail.ucv.es
 stu.colegiotorremalmuerta.es
 uma.es
 upm.es
-usal.es
 amu.edu.et
 haramaya.edu.et
 edu.sorbonne-paris-nord.fr
