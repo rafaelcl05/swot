@@ -1266,6 +1266,7 @@ cta.edu.vn
 daihocyhanoi.edu.vn
 dtu.edu.vn
 due.udn.vn
+dut.udn.vn
 ftu.edu.vn
 haiphong.itrithuc.vn
 hanoi.itrithuc.vn
