@@ -698,7 +698,6 @@ eng.just.edu.jo
 fet.ju.edu.jo
 fgs.ju.edu.jo
 htu.edu.jo
-iu.edu.jo
 just.edu.jo
 moej.edu.jo
 nes.edu.jo
@@ -1344,3 +1343,7 @@ iimv.ac.in
 kct.ac.in
 dit.edu.in
 indiraiimp.edu.in
+ogr.deu.edu.tr
+gtec.ac.kr
+jmail.ac.kr
+epgunheval.edu.pe
