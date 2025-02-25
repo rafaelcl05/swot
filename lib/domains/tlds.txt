@@ -3,7 +3,6 @@ ac.be
 ac.gg
 ac.gn
 ac.il
-ac.in
 ac.jp
 ac.me
 ac.mw
@@ -109,7 +108,6 @@ k12.tn.us
 k12.ut.us
 k12.vt.us
 k12.va.us
-k12.wa.us
 k12.wv.us
 k12.wi.us
 k12.wy.us
