@@ -1,17 +1,13 @@
-ac.bd
 ac.be
 ac.gg
 ac.gn
 ac.il
-ac.in
 ac.jp
 ac.me
-ac.mw
 ac.ni
 ac.om
 ac.pg
 ac.pr
-ac.ru
 ac.rw
 ac.sz
 ac.yu
