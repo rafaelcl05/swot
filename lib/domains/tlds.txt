@@ -2,6 +2,7 @@ ac.be
 ac.gg
 ac.gn
 ac.il
+ac.in
 ac.jp
 ac.me
 ac.ni
@@ -29,6 +30,7 @@ edu.ee
 edu.er
 edu.hk
 edu.hn
+edu.in
 edu.kz
 edu.lr
 edu.ly
@@ -39,6 +41,7 @@ edu.mv
 edu.mw
 edu.ni
 edu.pa
+edu.ph
 edu.pr
 edu.pt
 edu.pw
