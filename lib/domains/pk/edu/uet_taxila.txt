@@ -1,0 +1,10 @@
+# University Information
+university_name: "University of Engineering and Technology (UET), Taxila"
+website: "https://www.uettaxila.edu.pk/"
+email_domain: "@uettaxila.edu.pk"
+
+# Contact Details
+contact_email: "23-CE-141@students.uettaxila.edu.pk"
+phone_number: "03344604114"
+address: "UET - HMC Link Rd, Taxila, 47050"
+country: "Pakistan"
