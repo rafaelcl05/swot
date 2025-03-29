@@ -1,7 +1,7 @@
 # University Information
 university_name: "University of Engineering and Technology (UET), Taxila"
 website: "https://www.uettaxila.edu.pk/"
-email_domain: "@uettaxila.edu.pk"
+email_domain: "@students.uettaxila.edu.pk"
 
 # Contact Details
 contact_email: "23-CE-141@students.uettaxila.edu.pk"
