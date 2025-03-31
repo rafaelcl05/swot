@@ -1,2 +1,4 @@
 서울과학기술대학교
 Seoul National University of Science and Technology
+doamin: https://www.seoultech.ac.kr/
+TEL:(+82)02-970-6114
