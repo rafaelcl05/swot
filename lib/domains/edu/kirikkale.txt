@@ -1,2 +1,3 @@
 Kýrýkkale Üniversitesi
 KIRIKKALE UNIVERSITY
+domain:kku.edu.tr
