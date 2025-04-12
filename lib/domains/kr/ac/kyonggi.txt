@@ -1,0 +1,4 @@
+"경기대학교" lib/domains/kr/ac/kyonggi.txt
+Kyonggi University
+https://www.kyonggi.ac.kr/www/index.do
+https://www.kyonggi.ac.kr/u_computer/index.do
