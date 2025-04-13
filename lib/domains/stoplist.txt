@@ -726,3 +726,13 @@ student.miyazaki-c.ed.jp
 huiu.edu.vn
 mahemc.tu.edu.np
 ysu.edu.kg
+almamater.si
+alanyauniversity.edu.tr
+cccu.edu.hk
+cheonho.sen.ms.kr
+365.reru.ac.th
+allegany.edu
+bkc.edu.vn
+skhu.ac.kr
+office365.kuas.edu.tw
+ms.uki.ac.id
