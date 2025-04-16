@@ -13,10 +13,8 @@ shsu.am
 alu.frlp.utn.edu.ar
 alumnos.kennedy.edu.ar
 alumnos.uai.edu.ar
-campus.economicas.uba.ar
 comunidadort.edu.ar
 ebimal.edu.ar
-economicas.uba.ar
 frsf.utn.edu.ar
 iesdelatuel.edu.ar
 mi.unc.edu.ar
@@ -291,7 +289,7 @@ lonestar.edu
 losrios.edu
 mail.broward.edu
 mail.davistech.edu
-mail.fresnostate.edu
+fresnostate.edu
 mail.ltcc.edu
 mail.philau.edu
 mail.pima.edu
@@ -459,7 +457,6 @@ students.westerntc.edu
 subr.edu
 sunydutchess.edu
 sus.edu
-sust.edu
 swccd.edu
 tamu.edu
 tbr.edu
@@ -470,7 +467,6 @@ trenholmstate.edu
 tri-c.edu
 tulsacc.edu
 umail.utah.edu
-umbc.edu
 une.edu
 univalle.edu
 uph.edu
@@ -725,7 +721,6 @@ chosun.ac.kr
 daegu.ac.kr
 dsu.ac.kr
 duksung.ac.kr
-edu.hanbat.ac.kr
 g.hongik.ac.kr
 g.shingu.ac.kr
 g.tu.ac.kr
@@ -1389,7 +1384,6 @@ wou.edu.my
 gsuite.bu.edu
 bu.edu
 tcdsb.ca
-uba.ar
 northweststate.edu
 exatec.tec.mx
 gator.uhd.edu
@@ -1402,3 +1396,16 @@ students.adu.ac.ae
 altinbas.edu.tr
 daejin.ac.kr
 studenti.uniba.it
+untumbes.edu.pe
+dharanboodhooschool.edu.mv
+fju.edu.tw
+cobatab.edu.mx
+jsspsdubai.com
+anyang.ac.kr
+est.itsc.edu.do
+qu.edu.qa
+dogus.edu.tr
+ahlia.edu.bh
+mcast.edu.mt
+ivkhk.ee
+o365.hanbat.ac.kr

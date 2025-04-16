@@ -20,7 +20,6 @@ ed.jp
 edu.al
 edu.az
 edu.bb
-edu.bh
 edu.bs
 edu.bz
 edu.ck
@@ -36,7 +35,6 @@ edu.ly
 edu.mg
 edu.ml
 edu.mo
-edu.mv
 edu.mw
 edu.ni
 edu.pa
