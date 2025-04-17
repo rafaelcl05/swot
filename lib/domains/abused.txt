@@ -139,7 +139,6 @@ enayu.com
 gemselearning.com
 icamtech.com
 gmail.com
-inseec-france.com
 jmpaneracollege.com
 kkumail.com
 kmismail.com
@@ -467,7 +466,6 @@ trenholmstate.edu
 tri-c.edu
 tulsacc.edu
 umail.utah.edu
-umbc.edu
 une.edu
 univalle.edu
 uph.edu
@@ -722,7 +720,6 @@ chosun.ac.kr
 daegu.ac.kr
 dsu.ac.kr
 duksung.ac.kr
-edu.hanbat.ac.kr
 g.hongik.ac.kr
 g.shingu.ac.kr
 g.tu.ac.kr
@@ -987,9 +984,7 @@ uncp.edu.pe
 unm.edu.pe
 uns.edu.pe
 unsaac.edu.pe
-upn.pe
 upsjb.edu.pe
-usil.pe
 usmp.pe
 utp.edu.pe
 batstate-u.edu.ph
@@ -1406,3 +1401,11 @@ jsspsdubai.com
 anyang.ac.kr
 est.itsc.edu.do
 qu.edu.qa
+dogus.edu.tr
+ahlia.edu.bh
+mcast.edu.mt
+ivkhk.ee
+o365.hanbat.ac.kr
+baraodemaua.edu.br
+jak.lv
+hpn.edu.vn
