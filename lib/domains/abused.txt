@@ -13,10 +13,8 @@ shsu.am
 alu.frlp.utn.edu.ar
 alumnos.kennedy.edu.ar
 alumnos.uai.edu.ar
-campus.economicas.uba.ar
 comunidadort.edu.ar
 ebimal.edu.ar
-economicas.uba.ar
 frsf.utn.edu.ar
 iesdelatuel.edu.ar
 mi.unc.edu.ar
@@ -78,15 +76,6 @@ unilu.ac.cd
 cf
 fh-htachur.ch
 selise.ch
-academicos.uamericas.cl
-alumnos.santotomas.cl
-alumnos.utalca.cl
-correoaiep.cl
-duocuc.cl
-estudiantesunap.cl
-inacapmail.cl
-udec.cl
-usanandres.cl
 seu.edu.cn
 campusucc.edu.co
 campusvirtual.aunarvillavicencio.edu.co
@@ -141,7 +130,6 @@ enayu.com
 gemselearning.com
 icamtech.com
 gmail.com
-inseec-france.com
 jmpaneracollege.com
 kkumail.com
 kmismail.com
@@ -459,7 +447,6 @@ students.westerntc.edu
 subr.edu
 sunydutchess.edu
 sus.edu
-sust.edu
 swccd.edu
 tamu.edu
 tbr.edu
@@ -470,7 +457,6 @@ trenholmstate.edu
 tri-c.edu
 tulsacc.edu
 umail.utah.edu
-umbc.edu
 une.edu
 univalle.edu
 uph.edu
@@ -596,7 +582,6 @@ edu.hmu.gr
 ee.duth.gr
 email.axc.edu.gr
 int.edu.gr
-uniwa.gr
 uowm.gr
 upnet.gr
 campoalegre.edu.gt
@@ -725,7 +710,6 @@ chosun.ac.kr
 daegu.ac.kr
 dsu.ac.kr
 duksung.ac.kr
-edu.hanbat.ac.kr
 g.hongik.ac.kr
 g.shingu.ac.kr
 g.tu.ac.kr
@@ -990,9 +974,7 @@ uncp.edu.pe
 unm.edu.pe
 uns.edu.pe
 unsaac.edu.pe
-upn.pe
 upsjb.edu.pe
-usil.pe
 usmp.pe
 utp.edu.pe
 batstate-u.edu.ph
@@ -1389,7 +1371,6 @@ wou.edu.my
 gsuite.bu.edu
 bu.edu
 tcdsb.ca
-uba.ar
 northweststate.edu
 exatec.tec.mx
 gator.uhd.edu
@@ -1404,3 +1385,21 @@ daejin.ac.kr
 studenti.uniba.it
 untumbes.edu.pe
 dharanboodhooschool.edu.mv
+fju.edu.tw
+cobatab.edu.mx
+jsspsdubai.com
+anyang.ac.kr
+est.itsc.edu.do
+qu.edu.qa
+dogus.edu.tr
+ahlia.edu.bh
+mcast.edu.mt
+ivkhk.ee
+o365.hanbat.ac.kr
+baraodemaua.edu.br
+jak.lv
+hpn.edu.vn
+madisoncity.k12.al.us
+mail.fresnostate.edu
+uettaxila.edu.pk
+sdu.ac.kr
