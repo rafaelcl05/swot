@@ -747,3 +747,4 @@ iut.edu.kg
 kk.edu.rs
 msu.edu.kg
 live.sau.ac.th
+office.khu.ac.kr
