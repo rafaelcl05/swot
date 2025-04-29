@@ -336,6 +336,7 @@ alumni.msoe.edu
 alumni.ncyu.edu.tw
 alumni.nottingham.ac.uk
 alumni.npust.edu.tw
+alumni.princeton.edu
 alumni.sjtu.edu.cn
 alumni.ssst.edu.ba
 alumni.stanford.edu
@@ -748,3 +749,6 @@ kk.edu.rs
 msu.edu.kg
 live.sau.ac.th
 office.khu.ac.kr
+dilatatfmus.ru
+aitmofml.ru
+alumni.altinbas.edu.tr
