@@ -1,5 +1,4 @@
 جامعة عين شمس بالقاهرة
 Ain Shams University in Cairo
 University Main Website: https://www.asu.edu.eg/
-Faculty Subdomain: https://alsun.asu.edu.eg/ar/
-My email: osama.abdulalim@alsun.asu.edu.eg
+Faculty Subdomain: https://alsun.asu.edu.eg/
