@@ -569,7 +569,6 @@ mjj.edu.ge
 mziuri.edu.ge
 students.gov.ge
 anu.edu.gh
-knust.edu.gh
 live.gctu.edu.gh
 st.uew.edu.gh
 upsamail.edu.gh
@@ -825,7 +824,6 @@ alumnos365.xoc.uam.mx
 anahuac.mx
 aulamexiquense.mx
 colegio-venecia.edu.mx
-comunidad.unam.mx
 conalep.edu.mx
 conalepmex.edu.mx
 estudiantes.uv.mx
