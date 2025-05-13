@@ -560,7 +560,6 @@ bh.knu.ac.kr
 smpblbekasi.sch.id
 aroy.edu.pl
 ztbu.edu.cn
-gs.anyang.ac.kr
 uvmx.onmicrosoft.com
 mails.jlau.edu.cn
 aip.edu.pa
@@ -759,3 +758,8 @@ jj.edu.kg
 sau16.org
 xlike.edu.kg
 cau.ac
+wildbmail.com
+ailora.edu.kg
+icbc.edu.kg
+iip.edu.kg
+kzxy.edu.kg
