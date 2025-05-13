@@ -961,7 +961,6 @@ alumnos.unp.edu.pe
 cientifica.edu.pe
 isise.edu.pe
 ms.upla.edu.pe
-postgradoutp.edu.pe
 raimondi.edu.pe
 senati.pe
 sencico.edu.pe
@@ -974,7 +973,6 @@ uns.edu.pe
 unsaac.edu.pe
 upsjb.edu.pe
 usmp.pe
-utp.edu.pe
 batstate-u.edu.ph
 calamba.sti.edu.ph
 csu.ph
