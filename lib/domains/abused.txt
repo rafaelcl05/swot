@@ -373,7 +373,6 @@ sacsites.csus.edu
 sanjuancollege.edu
 sbcc.edu
 scc.stanly.edu
-sfcollege.edu
 sharif.edu
 sheridan.edu
 si.edu
@@ -1348,8 +1347,8 @@ um5.ac.ma
 fmu.edu.br
 wellesley.edu
 york.edu
-std.antalya.edu.tr
-student.hywoman.ac.kr
+antalya.edu.tr
+hywoman.ac.kr
 yapenhasbekasi.sch.id
 cibertec.edu.pe
 singimail.rs
@@ -1404,3 +1403,7 @@ sdu.ac.kr
 amu.edu.pl
 lausd.net
 cbit.org.in
+osloskolen.no
+skhu.ac.kr
+eshte.pt
+o6u.edu.eg
