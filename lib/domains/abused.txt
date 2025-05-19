@@ -1347,7 +1347,7 @@ um5.ac.ma
 fmu.edu.br
 wellesley.edu
 york.edu
-std.antalya.edu.tr
+antalya.edu.tr
 hywoman.ac.kr
 yapenhasbekasi.sch.id
 cibertec.edu.pe
@@ -1405,3 +1405,5 @@ lausd.net
 cbit.org.in
 osloskolen.no
 skhu.ac.kr
+eshte.pt
+o6u.edu.eg
